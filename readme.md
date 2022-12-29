@@ -1,5 +1,5 @@
 # Galeri Food LightBox sederhana menggunakan html dan css3
 
-# SS Galeri
+### SS Galeri
 
-![logo](img/ss.png)
+![logo](img/ss.PNG)
